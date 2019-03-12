@@ -10,7 +10,6 @@
   <?php $tab=array(
           'Nom'=>'Diagne',
           'Prenom'=>"Ahmadou Bamba",                                 
-          'Tel'=>'779449628',
           'Adresse'=>'Hlm Hann Maristes',
            'Profession'=>'Aucune',
                  
