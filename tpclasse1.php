@@ -11,11 +11,7 @@
           'Nom'=>'Diagne',
           'Prenom'=>"Ahmadou Bamba",                                 
           'Tel'=>'779449628',
-           'E-mail'=>'diagnekhadimx@gmail.com',
           'Adresse'=>'Hlm Hann Maristes',
-          'Identifiant'=>'201707ZYE',
-           'Identifiant_Slack'=>'Ahmadou Bamba Diagne',
-           'Date de naissance'=>'21/08/1998',
            'Profession'=>'Aucune',
                  
           );
